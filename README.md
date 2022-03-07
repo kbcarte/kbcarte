@@ -1,4 +1,4 @@
 [![K.B.'s github stats](https://github-readme-stats.vercel.app/api?username=kbcarte&count_private=true&theme=nord&show_icons=true)](https://greatbigdigital.com)
-[![K.B.'s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techb&layout=compact&theme=nord)](https://kbcarte.com)
+[![K.B.'s Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbcarte&layout=compact&theme=nord)](https://kbcarte.com)
 
 [Personal GitHub](https://github.com/techb)
